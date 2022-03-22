@@ -14,7 +14,7 @@ do
 	then 	echo Errore: $1 non file oppure non leggibile
 		exit 2
 	fi
-	#chiediamo all'utente se vuole visualizzare il contenuto del file: N.B. forziamo l'ouput sul terminale corrente per non avere problemi se si usasse la ridirezione dello standard output
+	#chiediamo all'utente se vuole visualizzare il contenuto del file: N.B. forziamo l'output sul terminale corrente per non avere problemi se si usasse la ridirezione dello standard output
 	echo -n "Vuoi visualizzare $i ? " > /dev/tty
 	#leggiamo la risposta dell'utente
 	read risposta
