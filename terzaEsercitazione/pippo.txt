@@ -1,0 +1,4 @@
+Sono il file pippo.txt
+servo come prova di for4Bis.sh
+ancora una linea
+ora basta.

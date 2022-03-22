@@ -1,0 +1,6 @@
+Sono il file paperino.txt
+servo come prova di for4Bis.sh
+ancora una linea
+ecco qui una nuova linea
+e un'altra
+ora basta.

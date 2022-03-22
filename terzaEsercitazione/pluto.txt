@@ -1,0 +1,3 @@
+Sono il file pluto.txt
+servo come prova di for4Bis.sh
+e ho tre linee.
